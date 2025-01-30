@@ -1,4 +1,5 @@
 # Turtle Crossing Game
+<img width="711" alt="Screen Shot 2025-01-30 at 23 24 39" src="https://github.com/user-attachments/assets/968233ee-704c-498f-984e-e2144cf069b3" />
 
 ## Overview
 
