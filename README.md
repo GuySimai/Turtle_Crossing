@@ -1,5 +1,4 @@
 # Turtle Crossing Game
-<img width="589" alt="Screen Shot 2025-01-30 at 23 22 53" src="https://github.com/user-attachments/assets/e3740006-cfb8-48a8-8893-f0c3e6cffd96" />
 
 ## Overview
 
@@ -17,5 +16,8 @@ Turtle Crossing is a fun and challenging Python game where you control a turtle 
 - Simple yet addictive gameplay inspired by classic arcade games.
 - Clean and colorful visuals using Python's turtle module.
 - Great for learning Python programming and object-oriented concepts.
+
+<img width="589" alt="Screen Shot 2025-01-30 at 23 22 53" src="https://github.com/user-attachments/assets/e3740006-cfb8-48a8-8893-f0c3e6cffd96" />
+
 
 Enjoy guiding your turtle to safety and test your reflexes!
